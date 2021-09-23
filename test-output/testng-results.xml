@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23713" started-at="2021-09-23T17:15:36 IST" finished-at="2021-09-23T17:16:00 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23713" started-at="2021-09-23T17:15:36 IST" finished-at="2021-09-23T17:16:00 IST">
+      <class name="com.saravanan.AriseMavenTestNg.TestNG002">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.saravanan.AriseMavenTestNg.TestNG002@7e2d773b]" name="openBrowser" is-config="true" duration-ms="0" started-at="2021-09-23T17:15:36 IST" finished-at="2021-09-23T17:15:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="TS001()[pri:0, instance:com.saravanan.AriseMavenTestNg.TestNG002@7e2d773b]" name="TS001" duration-ms="9854" started-at="2021-09-23T17:15:50 IST" finished-at="2021-09-23T17:16:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS001 -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.saravanan.AriseMavenTestNg.TestNG002@7e2d773b]" name="CloseBrowser" is-config="true" duration-ms="1" started-at="2021-09-23T17:16:00 IST" finished-at="2021-09-23T17:16:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.saravanan.AriseMavenTestNg.TestNG002 -->
+      <class name="com.saravanan.AriseMavenTestNg.TestNG001">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.saravanan.AriseMavenTestNg.TestNG001@2a556333]" name="openBrowser" is-config="true" duration-ms="15" started-at="2021-09-23T17:15:36 IST" finished-at="2021-09-23T17:15:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="TS001()[pri:0, instance:com.saravanan.AriseMavenTestNg.TestNG001@2a556333]" name="TS001" duration-ms="13766" started-at="2021-09-23T17:15:36 IST" finished-at="2021-09-23T17:15:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TS001 -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.saravanan.AriseMavenTestNg.TestNG001@2a556333]" name="CloseBrowser" is-config="true" duration-ms="2" started-at="2021-09-23T17:16:00 IST" finished-at="2021-09-23T17:16:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.saravanan.AriseMavenTestNg.TestNG001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
